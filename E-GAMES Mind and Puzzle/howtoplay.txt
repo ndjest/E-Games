@@ -1,0 +1,11 @@
+The mind game has three level of difficulty (easy, normal and hard). In every level there is a set of random questions and three (3) lives. Every correct answer has an equivalent points depending on the level. And every incorrect answer one (1) life will be deducted.
+
+Picture puzzle game.
+This game has six (6) levels. The player need to complete the first level to unlocked the next level until they complete the game. In every level has an scrambled picture to arrange.
+
+Suduko
+The aim of the puzzle is to enter a digit from 1 to 9 in each cell of a 9x9 grid made up of 3x3 subgrids, starting with various digits given in some cells; each row, column, and subgrid must contain only one instance of each digit. This game has six (6) levels. The player need to complete the first level before they can proceed to the next level until they complete the game. 
+
+Letter drop game
+This game aims the player to create a word using the blocks containing letters dropping on the screen. In every word created there is a corresponding points. Use the navigation keys to change the direction of the blocks. This symbol "()" could erase to its one or two closest blocks. As your level increase, the blocks will fall faster.
+

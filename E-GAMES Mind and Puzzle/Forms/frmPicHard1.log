@@ -1,0 +1,7 @@
+Line 499: Class PicClip.PictureClip of control Clip1 was not a loaded control class.
+Line 502: The property name _ExtentX in Clip1 is invalid.
+Line 503: The property name _ExtentY in Clip1 is invalid.
+Line 504: The property name _Version in Clip1 is invalid.
+Line 505: The property name Rows in Clip1 is invalid.
+Line 506: The property name Cols in Clip1 is invalid.
+Line 499: Property Picture in Clip1 could not be set.
